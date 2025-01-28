@@ -13,3 +13,13 @@ print("\nList of columns:", columns)
 last_three_first_three = df.iloc[-3:, :3]
 print("\nLast three rows and first three columns:")
 print(last_three_first_three)
+
+# output
+#  python Q9.py
+# List of columns: ['1', 'Abhijeet', 'Unnamed: 2', '3', '-213.25', '38.94', '35', 'Nunavut', 'Storage & Organization', '0.8']
+
+# Last three rows and first three columns:
+#     1 Abhijeet  Unnamed: 2
+# 6   8  dheeraj         NaN
+# 7   9    nitin         NaN
+# 8  10   vedant         NaN
