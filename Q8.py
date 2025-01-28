@@ -3,7 +3,7 @@ import pandas as pd
 file_path = input("Enter the path to the CSV file: ") 
 df = pd.read_csv(file_path)
 
-df_filled = df.fillna(df.mean(numeric_only=True))
+df_filled = df.fillna(df.mean(numeric_only=True)) #numeric_only=True
 
 print("Last 5 rows of the DataFrame:")
 print(df_filled.tail())
