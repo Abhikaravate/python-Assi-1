@@ -10,3 +10,9 @@ B = my_tuple[-4] #fourth_from_last
 # Print the results
 print("4th element from the front:", A)
 print("4th element from the last:", B)
+
+# output
+# python Q18.py
+# 4th element from the front: 40
+# 4th element from the last: 70
+# PS D:\MCA1-2\python>
