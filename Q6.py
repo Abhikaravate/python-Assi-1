@@ -37,3 +37,23 @@ if __name__ == "__main__":
     book.compute(7)  
     print("\nDisplaying Book Details Again:")
     book.display()  
+
+
+# output
+# Reading Book Details:
+# Accession Number: A123
+# Title: Python Programming
+# Author: Abhijeet
+# Publisher: TechBooks Inc.
+
+# Calculating Fine for 7 Days Late:     
+# Number of Days Late: 7
+# Fine Charged: Rupees 35
+
+# Displaying Book Details Again:        
+# Book Details:
+# Accession Number: A123
+# Title: Python Programming
+# Author: Abhijeet
+# Publisher: TechBooks Inc.
+# PS D:\MCA1-2\python>

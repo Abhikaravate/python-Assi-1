@@ -8,3 +8,7 @@ def fibonacci(n):
 # Example usage
 num = int(input("Enter a number: "))
 fibonacci(num)
+
+# PS D:\MCA1-2\python> python Q19.py 
+# Enter a number: 10
+# 0 1 1 2 3 5 8
